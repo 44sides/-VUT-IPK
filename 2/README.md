@@ -69,8 +69,3 @@ curl http://localhost:12345/time
 7. Client side: 
 Bad Request 
 ```
-
-
-### Author
-Vladyslav Tverdokhlib
-(xtverd01@vutbr.cz)
